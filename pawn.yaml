@@ -1,0 +1,14 @@
+site: ""
+user: real-davidwilson
+repo: cold-node
+entry: pawn-src/main.pwn
+output: gamemodes/main.amx
+dependencies:
+    - pawn-lang/samp-stdlib
+    - https://github.com/AmyrAhmady/samp-node:2.1.0
+local: true
+runtime:
+    version: 0.3.7
+    mode: server
+    rcon_password: password
+    port: 7777

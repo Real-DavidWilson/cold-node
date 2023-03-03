@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  samp-node-lib: ^1.1.5
+
+dependencies:
+  samp-node-lib: 1.1.5
+
+packages:
+
+  /samp-node-lib/1.1.5:
+    resolution: {integrity: sha512-R7UVEl+NEhAwsD9INHX7po61DVFqvcQgcVHVZIav1xEpk3QLOx7f9wk0lMmfcy/nnZ8wgPsT2MGlfMhuHrfBXA==}
+    dev: false
